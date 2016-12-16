@@ -1,4 +1,0 @@
-simstep2 20
-subscribevariable 0xd4 veh1 20 200 2 64 66
-simstep2 30
-simstep2 200
