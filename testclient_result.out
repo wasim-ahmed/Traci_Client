@@ -1,0 +1,833 @@
+TraCITestClient output file. Date: Thu Nov 17 12:01:51 2016
+
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+.. Command acknowledged (212), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.53
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 5.69
+      VariableID=66      ok=1 valueDataType=1 position value: (5.69,98.35)
+.. Command acknowledged (212), [description: ]
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.40
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 5.64
+      VariableID=66      ok=1 valueDataType=1 position value: (5.64,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.74
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 6.42
+      VariableID=66      ok=1 valueDataType=1 position value: (6.42,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.88
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 6.52
+      VariableID=66      ok=1 valueDataType=1 position value: (6.52,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.87
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 7.29
+      VariableID=66      ok=1 valueDataType=1 position value: (7.29,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.25
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 7.77
+      VariableID=66      ok=1 valueDataType=1 position value: (7.77,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.09
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 8.38
+      VariableID=66      ok=1 valueDataType=1 position value: (8.38,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.38
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 9.15
+      VariableID=66      ok=1 valueDataType=1 position value: (9.15,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.59
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 9.97
+      VariableID=66      ok=1 valueDataType=1 position value: (9.97,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.54
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 10.69
+      VariableID=66      ok=1 valueDataType=1 position value: (10.69,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.86
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 11.83
+      VariableID=66      ok=1 valueDataType=1 position value: (11.83,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.82
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 12.51
+      VariableID=66      ok=1 valueDataType=1 position value: (12.51,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.07
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 13.90
+      VariableID=66      ok=1 valueDataType=1 position value: (13.90,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.19
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 14.70
+      VariableID=66      ok=1 valueDataType=1 position value: (14.70,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.54
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 16.44
+      VariableID=66      ok=1 valueDataType=1 position value: (16.44,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.25
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 16.94
+      VariableID=66      ok=1 valueDataType=1 position value: (16.94,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.88
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 19.33
+      VariableID=66      ok=1 valueDataType=1 position value: (19.33,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.41
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 19.35
+      VariableID=66      ok=1 valueDataType=1 position value: (19.35,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.36
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 22.68
+      VariableID=66      ok=1 valueDataType=1 position value: (22.68,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.65
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 22.00
+      VariableID=66      ok=1 valueDataType=1 position value: (22.00,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.71
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 26.39
+      VariableID=66      ok=1 valueDataType=1 position value: (26.39,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.83
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 24.83
+      VariableID=66      ok=1 valueDataType=1 position value: (24.83,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.74
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 30.13
+      VariableID=66      ok=1 valueDataType=1 position value: (30.13,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.92
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 27.75
+      VariableID=66      ok=1 valueDataType=1 position value: (27.75,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.79
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 33.92
+      VariableID=66      ok=1 valueDataType=1 position value: (33.92,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.22
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 30.97
+      VariableID=66      ok=1 valueDataType=1 position value: (30.97,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.02
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 37.94
+      VariableID=66      ok=1 valueDataType=1 position value: (37.94,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.60
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 34.58
+      VariableID=66      ok=1 valueDataType=1 position value: (34.58,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.50
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 42.44
+      VariableID=66      ok=1 valueDataType=1 position value: (42.44,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.95
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 38.53
+      VariableID=66      ok=1 valueDataType=1 position value: (38.53,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.62
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 47.06
+      VariableID=66      ok=1 valueDataType=1 position value: (47.06,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.37
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 42.90
+      VariableID=66      ok=1 valueDataType=1 position value: (42.90,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.64
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 51.71
+      VariableID=66      ok=1 valueDataType=1 position value: (51.71,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.86
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 47.76
+      VariableID=66      ok=1 valueDataType=1 position value: (47.76,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.80
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 56.51
+      VariableID=66      ok=1 valueDataType=1 position value: (56.51,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.19
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 52.95
+      VariableID=66      ok=1 valueDataType=1 position value: (52.95,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.24
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 61.74
+      VariableID=66      ok=1 valueDataType=1 position value: (61.74,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.63
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 58.58
+      VariableID=66      ok=1 valueDataType=1 position value: (58.58,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.53
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 67.27
+      VariableID=66      ok=1 valueDataType=1 position value: (67.27,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.65
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 64.23
+      VariableID=66      ok=1 valueDataType=1 position value: (64.23,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.90
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 73.17
+      VariableID=66      ok=1 valueDataType=1 position value: (73.17,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.04
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 70.27
+      VariableID=66      ok=1 valueDataType=1 position value: (70.27,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.31
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 79.49
+      VariableID=66      ok=1 valueDataType=1 position value: (79.49,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.25
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 76.52
+      VariableID=66      ok=1 valueDataType=1 position value: (76.52,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.69
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 86.18
+      VariableID=66      ok=1 valueDataType=1 position value: (86.18,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.34
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 82.86
+      VariableID=66      ok=1 valueDataType=1 position value: (82.86,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.15
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 93.33
+      VariableID=66      ok=1 valueDataType=1 position value: (93.33,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.51
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 89.37
+      VariableID=66      ok=1 valueDataType=1 position value: (89.37,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.29
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 100.62
+      VariableID=66      ok=1 valueDataType=1 position value: (100.62,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.71
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 96.08
+      VariableID=66      ok=1 valueDataType=1 position value: (96.08,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.45
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 108.07
+      VariableID=66      ok=1 valueDataType=1 position value: (108.07,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.74
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 102.83
+      VariableID=66      ok=1 valueDataType=1 position value: (102.83,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.47
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 115.53
+      VariableID=66      ok=1 valueDataType=1 position value: (115.53,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.09
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 109.92
+      VariableID=66      ok=1 valueDataType=1 position value: (109.92,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.72
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 123.25
+      VariableID=66      ok=1 valueDataType=1 position value: (123.25,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.30
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 117.22
+      VariableID=66      ok=1 valueDataType=1 position value: (117.22,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 8.14
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 131.39
+      VariableID=66      ok=1 valueDataType=1 position value: (131.39,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.32
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 124.54
+      VariableID=66      ok=1 valueDataType=1 position value: (124.54,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 8.54
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 139.93
+      VariableID=66      ok=1 valueDataType=1 position value: (139.93,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.50
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 132.04
+      VariableID=66      ok=1 valueDataType=1 position value: (132.04,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 8.97
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 148.90
+      VariableID=66      ok=1 valueDataType=1 position value: (148.90,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.99
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 140.03
+      VariableID=66      ok=1 valueDataType=1 position value: (140.03,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 9.47
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 158.37
+      VariableID=66      ok=1 valueDataType=1 position value: (158.37,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 8.22
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 148.25
+      VariableID=66      ok=1 valueDataType=1 position value: (148.25,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 9.50
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 167.87
+      VariableID=66      ok=1 valueDataType=1 position value: (167.87,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 8.72
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 156.96
+      VariableID=66      ok=1 valueDataType=1 position value: (156.96,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 9.91
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 177.78
+      VariableID=66      ok=1 valueDataType=1 position value: (177.78,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 9.22
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 166.18
+      VariableID=66      ok=1 valueDataType=1 position value: (166.18,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 9.84
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 187.62
+      VariableID=66      ok=1 valueDataType=1 position value: (187.62,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 9.72
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 175.89
+      VariableID=66      ok=1 valueDataType=1 position value: (175.89,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.18
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 191.81
+      VariableID=66      ok=1 valueDataType=1 position value: (191.81,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 10.00
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 185.89
+      VariableID=66      ok=1 valueDataType=1 position value: (185.89,95.05)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.03
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 191.84
+      VariableID=66      ok=1 valueDataType=1 position value: (191.84,98.35)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 9.91
+      VariableID=67      ok=1 valueDataType=11 Double value: 83.57
+      VariableID=86      ok=1 valueDataType=11 Double value: 3.85
+      VariableID=66      ok=1 valueDataType=1 position value: (196.31,95.67)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.01
+      VariableID=67      ok=1 valueDataType=11 Double value: 90.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 191.85
+      VariableID=66      ok=1 valueDataType=1 position value: (191.85,95.05)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 10.39
+      VariableID=67      ok=1 valueDataType=11 Double value: 26.82
+      VariableID=86      ok=1 valueDataType=11 Double value: 14.24
+      VariableID=66      ok=1 valueDataType=1 position value: (204.29,103.41)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.20
+      VariableID=67      ok=1 valueDataType=11 Double value: 89.82
+      VariableID=86      ok=1 valueDataType=11 Double value: 0.10
+      VariableID=66      ok=1 valueDataType=1 position value: (192.06,95.07)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 10.71
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 6.61
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,114.66)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.60
+      VariableID=67      ok=1 valueDataType=11 Double value: 88.74
+      VariableID=86      ok=1 valueDataType=11 Double value: 0.70
+      VariableID=66      ok=1 valueDataType=1 position value: (192.74,95.16)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 11.07
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 17.67
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,125.72)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 0.88
+      VariableID=67      ok=1 valueDataType=11 Double value: 87.20
+      VariableID=86      ok=1 valueDataType=11 Double value: 1.58
+      VariableID=66      ok=1 valueDataType=1 position value: (193.74,95.30)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 11.23
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 28.90
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,136.95)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.19
+      VariableID=67      ok=1 valueDataType=11 Double value: 85.25
+      VariableID=86      ok=1 valueDataType=11 Double value: 2.77
+      VariableID=66      ok=1 valueDataType=1 position value: (195.08,95.50)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 11.42
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 40.32
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,148.37)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.28
+      VariableID=67      ok=1 valueDataType=11 Double value: 83.28
+      VariableID=86      ok=1 valueDataType=11 Double value: 4.04
+      VariableID=66      ok=1 valueDataType=1 position value: (196.53,95.70)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 11.66
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 51.98
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,160.03)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.57
+      VariableID=67      ok=1 valueDataType=11 Double value: 79.26
+      VariableID=86      ok=1 valueDataType=11 Double value: 5.61
+      VariableID=66      ok=1 valueDataType=1 position value: (198.21,96.20)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 11.87
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 63.85
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,171.90)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.58
+      VariableID=67      ok=1 valueDataType=11 Double value: 72.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 7.19
+      VariableID=66      ok=1 valueDataType=1 position value: (199.76,97.13)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 12.19
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 76.04
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,184.09)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.93
+      VariableID=67      ok=1 valueDataType=11 Double value: 63.09
+      VariableID=86      ok=1 valueDataType=11 Double value: 9.12
+      VariableID=66      ok=1 valueDataType=1 position value: (201.65,98.27)
+  CommandID=228  ObjectID=veh2  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 12.67
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 88.71
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,196.76)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 1.99
+      VariableID=67      ok=1 valueDataType=11 Double value: 48.20
+      VariableID=86      ok=1 valueDataType=11 Double value: 11.11
+      VariableID=66      ok=1 valueDataType=1 position value: (202.84,100.20)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.18
+      VariableID=67      ok=1 valueDataType=11 Double value: 35.84
+      VariableID=86      ok=1 valueDataType=11 Double value: 13.29
+      VariableID=66      ok=1 valueDataType=1 position value: (204.12,102.33)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.22
+      VariableID=67      ok=1 valueDataType=11 Double value: 21.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 15.50
+      VariableID=66      ok=1 valueDataType=1 position value: (204.49,104.84)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.47
+      VariableID=67      ok=1 valueDataType=11 Double value: 9.63
+      VariableID=86      ok=1 valueDataType=11 Double value: 17.97
+      VariableID=66      ok=1 valueDataType=1 position value: (204.89,107.63)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.76
+      VariableID=67      ok=1 valueDataType=11 Double value: 4.50
+      VariableID=86      ok=1 valueDataType=11 Double value: 2.39
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,110.44)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 2.90
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 5.29
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,113.34)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.17
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 8.46
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,116.51)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.24
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 11.70
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,119.75)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.45
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 15.15
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,123.20)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.46
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 18.61
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,126.66)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 3.82
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 22.42
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,130.47)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.11
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 26.53
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,134.58)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.44
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 30.97
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,139.02)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 4.59
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 35.56
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,143.61)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.04
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 40.60
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,148.65)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.30
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 45.90
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,153.95)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.47
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 51.38
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,159.43)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.58
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 56.96
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,165.01)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 5.94
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 62.90
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,170.95)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.09
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 68.99
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,177.04)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.52
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 75.51
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,183.56)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 6.67
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 82.18
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,190.23)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+  CommandID=228  ObjectID=veh1  #variables=4
+      VariableID=64      ok=1 valueDataType=11 Double value: 7.10
+      VariableID=67      ok=1 valueDataType=11 Double value: 0.00
+      VariableID=86      ok=1 valueDataType=11 Double value: 89.28
+      VariableID=66      ok=1 valueDataType=1 position value: (204.95,197.33)
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
+.. Command acknowledged (2), [description: ]
+
+-> Command sent: <SimulationStep2>:
