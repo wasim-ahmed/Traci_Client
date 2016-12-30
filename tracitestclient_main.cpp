@@ -28,6 +28,7 @@
 >>>>>>> work_branch
 
 //Update from Vickey
+//Vickey added a patch
 
 // ===========================================================================
 // included modules
