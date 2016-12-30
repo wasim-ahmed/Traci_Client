@@ -30,6 +30,7 @@
 //Update from Vickey
 //Vickey added a patch
 //Vickey --master protected
+//Vickey--protected option updated
 
 // ===========================================================================
 // included modules
