@@ -20,21 +20,6 @@
 //   (at your option) any later version.
 //
 /****************************************************************************/
-<<<<<<< HEAD
-//branch:work_branch
-=======
-//wasim::updted from desk
-//wasim:: try merge this time
->>>>>>> work_branch
-
-//Update from Vickey
-//Vickey added a patch
-//Vickey --master protected
-//Vickey--protected option updated
-//Vickey--protected option updated 1
-//Vickey--protected option updated 2
-
-//Vickey -updated branch
 
 // ===========================================================================
 // included modules
