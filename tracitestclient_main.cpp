@@ -20,21 +20,8 @@
 //   (at your option) any later version.
 //
 /****************************************************************************/
-<<<<<<< HEAD
-//vickey-updated from laptop
 
-//first update
-//second update
-//third update
 
-//final update
-
-// ===========================================================================
-// included modules
-// ===========================================================================
-=======
-
->>>>>>> 8ea1cc961a5d56e5b14dfdb236fe8c3033af95be
 #ifdef _MSC_VER
 #include <windows_config.h>
 #else
