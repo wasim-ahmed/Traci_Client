@@ -323,6 +323,8 @@ TraCITestClient::Position TraCITestClient::V2X_getPosition(std::string vehicleID
         return pos;
     }
 
+   // TraCIPosition pos = TraCIAPI::VehicleScope::getPosition("veh1");
+
   //  Convert_XY_to_LatLong(pos.x,pos.y,pos.latitude,pos.longitude);//call to external code
 
   //  std::cout<<pos.latitude<<"\t"<<pos.longitude<<std::endl;
